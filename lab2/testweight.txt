@@ -1,0 +1,4 @@
+a Unknown a 0.1
+a Carnivore a 2e-06 2 Yes
+a Unknown a 0.003
+a Unknown a 5e-39
